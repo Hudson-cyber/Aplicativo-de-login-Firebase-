@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tela de Login</string>
+    <string name="usuario">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="redefinir_senha">Esqueceu sua Senha?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sair">Sair</string>
+    <string name="redefinir">Redefinir</string>
+    <string name="voltar">Voltar</string>
+
+
+</resources>
